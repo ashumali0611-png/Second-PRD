@@ -2,10 +2,19 @@ LOGIN SECURITY REPORT
 
 Attempt 1
 Enter Username: 
+learner
+Enter PIN: 
+1234
+Username Status: Incorrect
+Pin Status: correct
+Login Result: Failed
+Remaining Attempts: 2
+
+Attempt 2
+Enter Username: 
 learner01
 Enter PIN: 
 1234
-User program finished
 Username Status: correct
 Pin Status: correct
 Login Result: Successful
